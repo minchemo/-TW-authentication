@@ -22,3 +22,7 @@ https://github.com/minchemo/TW-authentication/releases
 ## 聯繫開發者
 Instagram : https://www.facebook.com/106797094928428 <br/>
 FB : https://www.facebook.com/106797094928428
+
+## 截圖
+![localhost_8080_(iPhone 12 Pro Max) (1)](https://user-images.githubusercontent.com/22622775/118854721-94f62100-b907-11eb-9a2e-5834a1ee4422.png)
+![localhost_8080_(iPhone 12 Pro Max) (2)](https://user-images.githubusercontent.com/22622775/118854784-a50e0080-b907-11eb-9cc0-0596dcd91e9b.png)
