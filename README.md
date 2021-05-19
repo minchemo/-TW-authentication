@@ -14,14 +14,14 @@
 目前支持：711、全聯、美聯社、萊爾富、OK超商、星巴克
 
 ## Android 
-https://github.com/minchemo/TW-authentication/releases
+https://github.com/minchemo/TW-authentication/releases/download/1.0.1/app-release.apk
 
 ## iOS 
 尚未開放
 
 ## 聯繫開發者
 Instagram : https://www.facebook.com/106797094928428 <br/>
-FB : https://www.facebook.com/106797094928428
+FB : https://www.facebook.com/106797094928428 (有問題優先在此聯繫 Messenger 回報)
 
 ## 截圖
 ![localhost_8080_(iPhone 12 Pro Max) (1)](https://user-images.githubusercontent.com/22622775/118854721-94f62100-b907-11eb-9a2e-5834a1ee4422.png)
